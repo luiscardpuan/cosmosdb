@@ -1,0 +1,18 @@
+{
+    "id": "1",
+    "status":0,
+    "ts_status":0,
+    "id_status":1,
+    "q_view":22,
+    "ts_view":20240427,
+    "idCapaing":1001,
+    "name":"Fidelizacion de Clientes",
+    "detailsCTA": {
+        "salario":22089567,
+        "tope":30550000.39999,
+        "aportes":12890345,
+        "monto":"$86.234.234",
+        "nro_contrato":123,
+        "planProducto":"MFUND"
+    }
+}
